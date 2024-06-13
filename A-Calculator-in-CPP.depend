@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1718219240 source:e:\programmation-c++\a-calculator-in-cpp\main.cpp
+1718282793 source:e:\programmation-c++\a-calculator-in-cpp\main.cpp
 	<iostream>
+	<cstdlib>
 
